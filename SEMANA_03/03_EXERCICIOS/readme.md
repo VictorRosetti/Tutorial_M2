@@ -1,7 +1,8 @@
 <b>
 +++++++++++++++++++++++++++++++++++++++++OBRIGATÓRIOS+++++++++++++++++++++++++++++++++++++++
 </b>
-
+<BR>
+<BR>
 1. LANÇAMENTO VERTICAL 
 
 Um arremesso de um corpo, com velocidade inicial na direção vertical, recebe o nome de Lançamento Vertical. Sua trajetória é retilínea e vertical, e, devido à gravidade, o movimento classifica-se com Uniformemente Variado.
