@@ -1,5 +1,8 @@
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++OBRIGATÓRIOS+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+<b>
++++++++++++++++++++++++++++++++++++++++++OBRIGATÓRIOS+++++++++++++++++++++++++++++++++++++++
+</b>
+<BR>
+<BR>
 # Lista de exercícios obrigatórios - SEMANA 7
 
 Implemente os exercícios a seguir usando um arquivo html para cada, e um único javascript para todos.
@@ -50,7 +53,9 @@ Obs: para trabalhar com arredondamentos para cima, utilize a função nativa do 
 
 
 <BR><BR>
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++OPCIONAIS+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<b>
++++++++++++++++++++++++++++++++++++++++++OPCIONAIS+++++++++++++++++++++++++++++++++++++++
+</b>
 <BR><BR>
 
 # Lista de exercícios opcionais - Semana 7
