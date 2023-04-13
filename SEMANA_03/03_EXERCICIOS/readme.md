@@ -1,4 +1,6 @@
-++++++++++++++++++++++++++++++++++++++++++OBRIGATÓRIOS++++++++++++++++++++++++++++++++++++++++
+<b>
++++++++++++++++++++++++++++++++++++++++++OBRIGATÓRIOS+++++++++++++++++++++++++++++++++++++++
+</b>
 
 1. LANÇAMENTO VERTICAL 
 
@@ -73,7 +75,9 @@ Escreva uma função em JavaScript que faça o cálculo (valor = quantidade x va
 
 Entrega: cada exercício deve ter o seu respectivo html, e deve ser usado o mesmo arquivo javascript para todos. Faça a entrega usando a sua Git Page.
 <BR><BR>
-++++++++++++++++++++++++++++++++++++++++++OPCIONAIS++++++++++++++++++++++++++++++++++++++++
+<b>
++++++++++++++++++++++++++++++++++++++++++OPCIONAIS+++++++++++++++++++++++++++++++++++++++
+</b>
 <BR><BR>
 
 1. DESCONTO / ACRÉSCIMO 
